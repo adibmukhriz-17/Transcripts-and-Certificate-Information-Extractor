@@ -22,11 +22,11 @@ The OCR system automatically determines the appropriate extraction method:
 
 To improve readability and maintainability, the project is organised into modular functions with detailed documentation and comments. At this stage, the system is able to extract the complete raw text from a document, providing the foundation for the next phase, where structured information such as student name, institution, programme, CGPA, and final grade will be extracted.
 
-#### Example results:
-Image file ("ASHWORTH COLLEGE.jpg")
+## Example results:
+### Image file ("ASHWORTH COLLEGE.jpg")
 <img width="894" height="718" alt="image" src="https://github.com/user-attachments/assets/0483b7d2-e134-4519-b2ee-6b4e52ed7164" />
 
-Scanned Pdf file ("Kumasi Technical University.pdf")
+### Scanned Pdf file ("Kumasi Technical University.pdf")
 <img width="1086" height="742" alt="image" src="https://github.com/user-attachments/assets/46cb819c-b222-42b6-8cf4-2f54fb96ecb9" />
 
 ### Phase 2 - Cleaning Extracted Texts
